@@ -31,9 +31,6 @@ url: "https://ElimMedia.github.io"
 github:
   username: ElimMedia # change to your github username
 
-#twitter:
-#  username: twitter_username # change to your twitter username
-
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
@@ -76,7 +73,7 @@ theme_mode: dark # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "assets/img/favicons/mstile-150x150.png"
+avatar: "assets/img/favicons/Avatar.png"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
